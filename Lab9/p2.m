@@ -1,0 +1,1 @@
+I = quad('formula2',pi/3,pi/2)
